@@ -3,7 +3,7 @@ import 'firebase/firestore';
 import 'firebase/auth';
 
 var firebaseConfig = {
-  apiKey: "AIzaSyAZOnU8hEJnLt631qthqE219_qQG9sJNy0",
+  apiKey: apiKey_REMOVED,
   authDomain: "dashboarddbt.firebaseapp.com",
   databaseURL: "https://dashboarddbt.firebaseio.com",
   projectId: "dashboarddbt",
